@@ -1,4 +1,6 @@
-# -DevOps-Journey-Week-11-CI-CD-with-GitHub-ActionsThis week I explored GitHub Actions and successfully automated the deployment of my Node.js application to AWS EC2.
+🚀 DevOps Journey – Week 11: CI/CD with GitHub Actions
+
+This week I explored GitHub Actions and successfully automated the deployment of my Node.js application to AWS EC2.
 
 Unlike Jenkins, where we need to install and configure servers with webhooks, GitHub Actions makes the process very smooth — everything is managed inside a simple .yml workflow file. No extra server installation is required.
 
